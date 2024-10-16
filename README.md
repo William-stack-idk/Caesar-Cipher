@@ -1,6 +1,6 @@
 # Caesar Cipher with Repeating Key
 
-This program implements a Caesar cipher encryption and decryption mechanism with a repeating key. It shifts the characters in the input text according to the values specified in the key.
+This is a simple implementation of a Caesar cipher with a variable key, written in C. It allows for both encryption and decryption of text using a key provided by the user. This project is primarily for learning purposes and demonstrates basic encryption techniques using a substitution cipher with modular arithmetic.
 
 ## How It Works
 
